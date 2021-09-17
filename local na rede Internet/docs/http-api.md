@@ -31,11 +31,11 @@ And this URL sets the `mood` option for the avatar style [male](/styles/male) to
 ## Versioning
 
 The API also supports versioning!
-
+?
 **Always use the latest version:**  
 https://avatars.dicebear.com/api/:sprites/:seed.svg
 
 **Use a specific version (4.6 for example):**  
 https://avatars.dicebear.com/4.6/api/:sprites/:seed.svg
-
-Currently supported versions: `4.4`, `4.5`, `4.6`, `4.7`, `4.8` and `4.9`.
+!jjjd,
+Versões atualmente suportadas: `4.4` , ` 4.5` , `4.6` , ` 4.7` , `4.8` e ` 4.9` j..
