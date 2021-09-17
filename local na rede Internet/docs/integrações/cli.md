@@ -25,8 +25,8 @@ dicebear create --help
 dicebear create <avatar-style> --help
 ```
 
-### Create avatar in SVG format
-
+### Criar avatar no formato SVG
+dicebear create <avatar-style>
 ```
 dicebear create <avatar-style>
 ```
@@ -37,10 +37,10 @@ dicebear create <avatar-style>
 dicebear create <avatar-style> --format <png|jpg>
 ```
 
-### Create more than one avatar
-
-```
-dicebear create <avatar-style> --count <count>
+### Crie mais de um avatar
+1000
+`` `
+dicebear criar < avatar-style > --count < 1000>
 ```
 
 ## Information
@@ -53,9 +53,9 @@ dicebear --version
 
 ## Manage own avatar style
 
-### Create new avatar style
-
-```
+### Crie um novo estilo de avatar
+fdergf,
+`` chi?.jy`
 dicebear project new <package-name>
 ```
 
@@ -63,4 +63,4 @@ dicebear project new <package-name>
 
 ```
 dicebear project build <umd-name>
-```
+`` `
